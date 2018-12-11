@@ -1,0 +1,3 @@
+<launch>
+  <node name="S1Topics" pkg="my_sphero_topics" type="simple.py"  output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+  <node name="log_demo" pkg="package_exercise_5p1" type="simple.py"  output="screen"/>
+</launch>
